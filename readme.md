@@ -76,3 +76,5 @@ Pin mapping (taken from the schematic):
 - Case: fully 3D printed (limit 200x200x100mm)
 - Inputs: 9 keys + 1 encoder = 10 (limit 16)
 - Tolerances: 0.2mm on mating surfaces, M3x5x4 heatset inserts (4.7mm holes), M3x16 screws (3.4mm clearance)
+
+Note: I need a soldering iron — please include the $18 soldering iron grant.
